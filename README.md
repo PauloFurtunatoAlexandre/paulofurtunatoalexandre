@@ -4,6 +4,8 @@
   "I'm a developer from Huron, South Dakota currently looking for a position as a software engineer."
 ```
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulofurtunatoalexandre)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔧 My current skills...
 ```javascript
   const frontEnd = ["HTML", "CSS", "SASS", "JavaScript", "React", "Redux"];
