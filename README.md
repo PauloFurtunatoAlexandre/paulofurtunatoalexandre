@@ -1,6 +1,8 @@
 ### Hello World! I am Paulo Alexandre 👋
 
-Here are some ideas to get you started:
+```python
+  "I'm a developer from Huron, South Dakota currently looking for a position as a software engineer."
+```
 
 - 🔧 My current skills...
 ```javascript
