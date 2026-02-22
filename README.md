@@ -1,7 +1,7 @@
 ### Hello World! I am Paulo Alexandre 👋
 
 ```python
-  "I'm a designer from Huron, South Dakota!"
+  "I'm a designer from St. Pete, Florida!"
 ```
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulofurtunatoalexandre)](https://github.com/anuraghazra/github-readme-stats)
